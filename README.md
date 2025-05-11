@@ -1,11 +1,11 @@
-# 👋 Olá, bem-vindo ao meu perfil no GitHub!
+**# 👋 Olá, bem-vindo ao meu perfil no GitHub!
 
 Sou Gustavo Lívia Silva, um estudante apaixonado por tecnologia e desenvolvimento de software.  
 Estou em constante evolução, estudando programação e desenvolvendo projetos para ganhar experiência e me preparar para o mercado.
 
 ## 📌 Sobre mim
 
-- 🎓 Estudante de Programação e Desenvolvimento de Software pelo Instituto Pro.
+- 🎓 Estudante de Programação e Desenvolvimento de Software pelo Instituto Proa.
 - 💻 Atualmente estudando JavaScript, HTML, CSS e React.
 - 🚀 Buscando minha primeira oportunidade como desenvolvedor.
 - 📈 Em constante aprendizado, evoluindo a cada projeto.
@@ -24,13 +24,19 @@ Estou em constante evolução, estudando programação e desenvolvendo projetos 
 
 ## 📊 Minhas estatísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoLinsdaSilva&show_icons=true&theme=tokyonight)](https://github.com/GustavoLinsdaSilva)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLinsdaSilva&layout=compact&theme=tokyonight)](https://github.com/GustavoLinsdaSilva)
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <a href="https://github.com/GustavoLinsdaSilva">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoLinsdaSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/GustavoLinsdaSilva">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLinsdaSilva&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</div>
 
 ## 📈 Minhas Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLinsdaSilva&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLinsdaSilva&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 ## 🐍 Snake Animation
@@ -43,4 +49,4 @@ Estou em constante evolução, estudando programação e desenvolvendo projetos 
 
 ---
 
-🔗 **Siga meu progresso e crescimento como desenvolvedor!**
+🔗 **Siga meu progresso e crescimento como desenvolvedor!****

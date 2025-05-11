@@ -1,4 +1,4 @@
-**# 👋 Olá, bem-vindo ao meu perfil no GitHub!
+## 👋 Olá, bem-vindo ao meu perfil no GitHub!
 
 Sou Gustavo Lívia Silva, um estudante apaixonado por tecnologia e desenvolvimento de software.  
 Estou em constante evolução, estudando programação e desenvolvendo projetos para ganhar experiência e me preparar para o mercado.

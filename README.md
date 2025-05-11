@@ -27,6 +27,16 @@ Estou em constante evolução, estudando programação e desenvolvendo projetos 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoLinsdaSilva&show_icons=true&theme=tokyonight)](https://github.com/GustavoLinsdaSilva)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLinsdaSilva&layout=compact&theme=tokyonight)](https://github.com/GustavoLinsdaSilva)
 
+## 📈 Minhas Atividades
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLinsdaSilva&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+## 🐍 Snake Animation
+
+<img src="https://raw.githubusercontent.com/GustavoLinsdaSilva/GustavoLinsdaSilva/output/snake.svg" alt="Snake animation" />
+
 ## 🔗 Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/gustavolinsdasilva/)

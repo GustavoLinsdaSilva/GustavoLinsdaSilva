@@ -26,10 +26,10 @@ Estou em constante evolução, estudando programação e desenvolvendo projetos 
 
 <div align="center">
   <a href="https://github.com/GustavoLinsdaSilva">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoLinsdaSilva&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoLinsdaSilva&show_icons=true&theme=dark&locale=en&hide_border=false&order=1" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/GustavoLinsdaSilva">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLinsdaSilva&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLinsdaSilva&layout=compact&theme=dark&locale=en&hide_border=false&order=2" alt="Top Languages"/>
   </a>
 </div>
 
